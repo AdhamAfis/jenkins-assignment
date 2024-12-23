@@ -1,1 +1,4 @@
-/github-webhook-setup.md
+
+.DS_Store
+node_modules/
+
